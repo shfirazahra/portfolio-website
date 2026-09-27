@@ -12,7 +12,7 @@ const Footer = () => {
         <div>
             <h3 className='text-xl text-rose-500 font-bold
              dark:text-rose-400'>Portfolio</h3>
-            <p className='text-xs'>Frontend Developer</p>
+            <p className='text-xs'>Full-Stack Developer</p>
         </div>
         <div className='flex gap-4'>
             <a 
