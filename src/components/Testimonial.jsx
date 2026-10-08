@@ -17,43 +17,19 @@ const Testimonial = () => {
         },
         {
             id: 2,
-            name: 'Nurul Ramadhani',
-            role: 'Data Coordinator',
-            company: 'ATR/BPN',
+            name: 'Fatin Salsabila',
+            role: 'Data Entry',
+            company: 'PT Swakarya Insan Mandiri',
             image: '/images/nurul.jpg',
-            text: 'Sangat teliti dalam mengarsipkan dan memproses data. Shafira adalah rekan kerja yang bisa diandalkan ketika kita berhadapan dengan tenggat waktu pelaporan yang ketat.'
+            text: 'Shafira itu orang nya rajin, sampai ke tempat kerja selalu awal & pagi banget padahal rumahnya jauh. Orang nya baik & ramah sama semua temen nya.'
         },
         {
             id: 3,
-            name: 'Rezqua',
-            role: 'Owner',
-            company: 'Toko Sejati Cosmetics',
+            name: 'Nurul Rahmatika',
+            role: 'Kolega',
+            company: 'Universitas Dian Nuswantoro',
             image: '/images/rezqua.jpg',
-            text: 'Hasil website e-commerce yang dikerjakan sangat memuaskan. Desain UI/UX-nya modern, warnanya cantik, dan sangat responsif saat dibuka lewat HP. Recommended frontend developer!'
-        },
-        {
-            id: 4,
-            name: 'Nama Klien 4',
-            role: 'Manajer Operasional',
-            company: 'PT Contoh Perusahaan',
-            image: '/images/klien4.jpg',
-            text: 'Aplikasi berbasis Vue.js yang dibangun sangat lancar. Logika sistemnya kuat dan desain antarmukanya sangat memudahkan pengguna di lapangan.'
-        },
-        {
-            id: 5,
-            name: 'Nama Klien 5',
-            role: 'Kepala IT',
-            company: 'Instansi Pemerintah',
-            image: '/images/klien5.jpg',
-            text: 'Sangat terkesan dengan sistem informasi yang dirancang. Kodenya rapi dan dokumentasinya sangat memudahkan tim kami untuk melakukan pemeliharaan lanjutan.'
-        },
-        {
-            id: 6,
-            name: 'Nama Klien 6',
-            role: 'Project Manager',
-            company: 'Tech Agency',
-            image: '/images/klien6.jpg',
-            text: 'Kolaborasi yang luar biasa! Penguasaan di bidang frontend dan backend membuat proses integrasi berjalan mulus tanpa kendala berarti.'
+            text: 'Orang nya baik, jujur, kalem plus pinter sama ngambis juga nih anak'
         }
     ];
 
